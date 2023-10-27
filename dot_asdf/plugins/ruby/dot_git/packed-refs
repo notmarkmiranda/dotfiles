@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+e722fab6ca5bac960065619436ebc73b7c672fa3 refs/remotes/origin/Stratus3D-patch-1
+c8fca2253ba9e2d289b89565fe0effe6d5e55485 refs/remotes/origin/Stratus3D-patch-2
+c699dabe91470350661c0c2bd73c1804a177c9ae refs/remotes/origin/Stratus3D-patch-3
+78ad9325d5ac7fba09e378082fc46917c3ecce50 refs/remotes/origin/Stratus3D-patch-4
+3deb2bd93da0c92a6eeec3281a754d0017d8249b refs/remotes/origin/keep-source
+3035a4a41639bc0c3b668f31b3039926c173f375 refs/remotes/origin/master

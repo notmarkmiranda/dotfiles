@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# asdf-plugin: nodejs 21.1.0
+exec /Users/weatherby/.asdf/bin/asdf exec "corepack" "$@" # asdf_allow: ' asdf '
